@@ -1,2 +1,2 @@
-# Deep-Learning
-Contains all deep learning related projects executed in colab and jupyter notebooks
+# Deep-Learning/NLP
+Contains all deep learning and NLP related projects executed in colab and jupyter notebooks
